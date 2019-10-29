@@ -1,10 +1,10 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
-// import styles from './Color.css';
+import styles from './Footer.css';
 
 const Footer = () => {
   return (
-    <footer></footer>
+    <footer className={styles.Footer}>&copy; Alex Spencer</footer>
   );
 };
 

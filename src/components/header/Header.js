@@ -1,10 +1,10 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
-// import styles from './Color.css';
+import styles from './Header.css';
 
 const Header = () => {
   return (
-    <header>
+    <header className={styles.Header}>
       <h1>Best Characters</h1>
     </header>
   );
