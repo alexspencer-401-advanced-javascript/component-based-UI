@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<Fragment>
+  <Header />
+  <ul
+    className="App"
+  >
+    <List
+      Component={[Function]}
+      items={
+        Array [
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/25.jpeg",
+            "name": "Armothy",
+            "species": "unknown, Self-aware arm",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/56.jpeg",
+            "name": "Bootleg Portal Chemist Rick",
+            "species": "Human",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/91.jpeg",
+            "name": "David Letterman",
+            "species": "Human",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/363.jpeg",
+            "name": "Trandor",
+            "species": "Alien, Krootabulan",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/145.jpeg",
+            "name": "Glenn",
+            "species": "Human, Eat shiter-Person",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/426.jpeg",
+            "name": "Greasy Grandma",
+            "species": "Human, Grandma",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/230.jpeg",
+            "name": "Morty Jr.",
+            "species": "Humanoid, Human Gazorpian",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/187.jpeg",
+            "name": "Juggling Rick",
+            "species": "Human",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/356.jpeg",
+            "name": "Tom Randolph",
+            "species": "Human",
+          },
+          Object {
+            "img": "https://rickandmortyapi.com/api/character/avatar/470.jpeg",
+            "name": "Alien Spa Employee",
+            "species": "Alien",
+          },
+        ]
+      }
+    />
+  </ul>
+  <Footer />
+</Fragment>
+`;

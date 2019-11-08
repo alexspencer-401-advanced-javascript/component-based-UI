@@ -1,0 +1,31 @@
+.Character {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: contain;
+
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 5px;
+    padding-left: 10px;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 0;
+    padding-left: 10px;
+  }
+}
+
+.characterInfo {
+  background: rgb(80, 79, 79);
+  height: 80px;
+  width: 300px;
+  margin: 0 auto;
+}
